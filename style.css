@@ -1,0 +1,40 @@
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    background-color: rgb(124, 166, 202);
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+}
+
+h4{
+    color: aliceblue;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border: 1px solid rgb(156, 209, 255);
+}
+
+img{
+    width: 35%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0px 5px 6px  aliceblue;
+}
+
+img:hover{
+    border-radius: 140px;
+}
+
+.column{
+    display: inline;
+    padding: 15px;
+}
